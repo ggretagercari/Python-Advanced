@@ -104,7 +104,7 @@ def collect_user_data(self):
 
 while True:
     cont = input("Add another person? (yes/no): ").lower()
-    if cont != "yes":
+    if cont != "yes":9
         break
 
 def print_results(self):
